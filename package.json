@@ -1,0 +1,21 @@
+{
+  "name": "unit-testing",
+  "version": "1.0.0",
+  "description": "jest test",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "js",
+    "javascript",
+    "jest",
+    "unit",
+    "testing"
+  ],
+  "author": "Anna Lee",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
